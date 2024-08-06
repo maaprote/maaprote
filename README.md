@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Rodrigo Teixeira</h1>
 <h3 align="left">A passionate Senior Software Developer | WordPress Engineer from Brazil</h3>
 
-🔭 I’m currently working on Botiga and Merchant<br>👨‍💻 Some of my projects are available on https://codecanyon.net/user/_thememaster/portfolio<br>💬 Ask me about WordPress, PHP, JavaScript, React, MySQL<br>📫 How to reach me maaprote[at]gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/rodrigorosateixeira/
+🔭 I’m currently working on [Botiga](https://github.com/athemes/Botiga) and [Merchant](https://github.com/athemes/Merchant)<br>👨‍💻 Some of my projects are available on https://codecanyon.net/user/_thememaster/portfolio<br>💬 Ask me about WordPress, PHP, JavaScript, React, MySQL<br>📫 How to reach me maaprote[at]gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/rodrigorosateixeira/
 
 
 ## 🌐 Socials:
